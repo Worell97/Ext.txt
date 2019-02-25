@@ -21,7 +21,7 @@ Tentando desenvolver uma extensão.
     "content_scripts": [
         {
             "matches": [
-                "*://*.facebook.com/*"
+                "*://*.google.com/*"
             ],
             "js": [
                 "js/jquery-3.3.1.min.js",
